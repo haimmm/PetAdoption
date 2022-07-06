@@ -1,0 +1,13 @@
+.myPets{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.myPets h1{
+    color: red;
+}
+
+.cardsContainer{
+    margin-top: 20px;
+}

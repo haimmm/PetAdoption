@@ -1,0 +1,29 @@
+.pet{
+    outline: 1px solid black;
+    margin-top: 50px;
+    max-width: 400px;
+    background-color: beige;
+    border-radius: 5px;
+}
+
+.imageContainer > img{
+    width: 100%;
+
+    /* border-radius: 50%; */
+}
+
+.petProperties{
+    font-size: 1.3rem;
+    line-height: 1.7rem;
+    text-align: center;
+}
+
+.petProperties span {
+    font-weight: bold;
+}
+
+.buttons{
+    margin: 20px 0;
+    display:flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,27 @@
+.filters{
+    width:400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.list{
+    width: 400px;
+    margin: 10px 0;
+    padding: 0;
+}
+
+.list li{
+    list-style-type: none;
+}
+
+.list a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: rgb(77, 74, 74);
+}
+
+.list a:hover{
+    text-decoration: underline;
+}

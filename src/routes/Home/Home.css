@@ -1,0 +1,25 @@
+.home{
+    width: 100%;
+    /* height: 90vh; */
+    /* height: 100%; */
+    position: relative;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.welcomeMessage{
+    min-width: fit-content;
+    padding: 50px;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(240, 238, 238, 0.5);
+}

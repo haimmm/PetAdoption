@@ -1,0 +1,15 @@
+.AddContainer{
+    width: 25%;
+    margin:40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.AddContainer div{
+    width: 100%;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+}

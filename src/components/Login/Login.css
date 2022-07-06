@@ -1,0 +1,41 @@
+.modalHeader{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    background: #3528ebaf;
+    color: white;
+}
+
+.modalHeader div{
+    width: 50%;
+    text-align: center;
+    line-height: 30px;
+    opacity: 0.5;
+    border-bottom: 1px solid black;
+}
+
+.modalHeader div:hover{
+    cursor: pointer;
+    background: #3528ebaf;
+    opacity: 1;
+}
+
+.modalHeader > div:first-child{
+    border-right: 1px solid black;
+}
+
+.modalBody{
+    width: 70%;
+    margin:40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modalBody div{
+    width: 100%;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
