@@ -1,6 +1,5 @@
 # PetAdoption
-## [DEMO](https://pet-adoptions.vercel.app/home)
-### [Backend repo](https://github.com/haimmm/petAdoption-backend)
+### [DEMO](https://pet-adoptions.vercel.app/home) | [Backend repo](https://github.com/haimmm/petAdoption-backend)
 
 ### Technologies: MongoDb, Express, React, MaterialUi, NodeJs
 
